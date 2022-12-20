@@ -6,7 +6,7 @@
 }
 .top-secondary-navbar{
 font-size: 12px;
-letter-spacing: 0.05cm;
+letter-spacing: .2em;
 }
 .top-primary-navbar{
     justify-content: space-between;
@@ -16,7 +16,8 @@ letter-spacing: 0.05cm;
     box-shadow: 0;
 }
 .main-logo a img{
-width: 300px;
+width: 150px;
+height: 45px;
 
 }
 .side-menu a i{
