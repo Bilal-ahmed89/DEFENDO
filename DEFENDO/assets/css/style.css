@@ -4,6 +4,12 @@
 .text-decoration{
     text-decoration: none;
 }
+.letter-spacing-1{
+    letter-spacing: .1em;
+}
+.fs-7{
+    font-size: 15px;
+}
 .top-secondary-navbar{
 font-size: 12px;
 letter-spacing: .2em;
@@ -15,11 +21,7 @@ letter-spacing: .2em;
     outline: 0;
     box-shadow: 0;
 }
-.main-logo a img{
-width: 150px;
-height: 45px;
 
-}
 .side-menu a i{
     font-size: 20px;
 }
